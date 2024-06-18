@@ -44,7 +44,9 @@ export default function Home() {
             </span>
           </h2>
         </a>
-
+        
+        <img className="justify-end" src="../myLogo-GabrielFernandez.png">
+        </img>
       </div>
 
       <div id="about_me" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
@@ -91,8 +93,23 @@ There are many variations of passages of Lorem Ipsum available, but the majority
           <h2 className="text-xl">
             Software Developer I
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-              {/* Text goes here */}
+          <p className="m-0 text-sm opacity-50">
+              placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+      
+              <h1 className="mt-2">Key Responsibilities</h1>
+              <ul className="ml-8 mt-2 list-disc">
+                <li>
+                  list item 1
+                </li>
+                <li>
+                  list item 2
+                </li>
+                <li>
+                  list item 3
+                </li>
+              </ul>
           </p>
         </div>
 
@@ -100,8 +117,23 @@ There are many variations of passages of Lorem Ipsum available, but the majority
           <h2 className="text-xl">
             Quality Assurance Engineer
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-              {/* Text goes here */}
+          <p className="m-0 text-sm opacity-50">
+              placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+      
+              <h1 className="mt-2">Key Responsibilities</h1>
+              <ul className="ml-8 mt-2 list-disc">
+                <li>
+                  list item 1
+                </li>
+                <li>
+                  list item 2
+                </li>
+                <li>
+                  list item 3
+                </li>
+              </ul>
           </p>
         </div>
       </div>
@@ -115,8 +147,23 @@ There are many variations of passages of Lorem Ipsum available, but the majority
           <h2 className="text-xl">
             OpernSearch SQL Plugin
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-              {/* Text goes here */}
+          <p className="m-0 text-sm opacity-50">
+              placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+      
+              <h1 className="mt-2">Key Responsibilities</h1>
+              <ul className="ml-8 mt-2 list-disc">
+                <li>
+                  list item 1
+                </li>
+                <li>
+                  list item 2
+                </li>
+                <li>
+                  list item 3
+                </li>
+              </ul>
           </p>
         </div>
 
@@ -124,8 +171,23 @@ There are many variations of passages of Lorem Ipsum available, but the majority
           <h2 className="text-xl">
             MERN Stack Website
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-              {/* Text goes here */}
+          <p className="m-0 text-sm opacity-50">
+              placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+      
+              <h1 className="mt-2">Key Responsibilities</h1>
+              <ul className="ml-8 mt-2 list-disc">
+                <li>
+                  list item 1
+                </li>
+                <li>
+                  list item 2
+                </li>
+                <li>
+                  list item 3
+                </li>
+              </ul>
           </p>
         </div>
       </div>
