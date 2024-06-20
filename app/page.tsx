@@ -3,6 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24">
+    {/* <main className="flex min-h-screen flex-col items-center p-24 bg-header-background bg-top bg-[length:100%] bg-no-repeat"> */}
 
       <div className="mb-32 grid items-center text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <img className="justify-end" src="../myLogo-GabrielFernandez.png">
@@ -11,7 +12,7 @@ export default function Home() {
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           rel="noopener noreferrer"
           href="#about_me"
-        >
+          >
           <h2 className="text-2xl font-semibold">
             About Me{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -24,7 +25,7 @@ export default function Home() {
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           rel="noopener noreferrer"
           href="#work_experience"
-        >
+          >
           <h2 className="text-2xl font-semibold">
             Experience{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -37,7 +38,7 @@ export default function Home() {
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           rel="noopener noreferrer"
           href="#projects"
-        >
+          >
           <h2 className="text-2xl font-semibold">
             Projects{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
@@ -69,7 +70,13 @@ export default function Home() {
         </ul>
       </div>
 
-      <div id="about_me" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <img
+          className="mt-8 mb-8 size-2/3 center"
+          src="/GabrielFernandez-Hike.png"
+        />
+      
+
+      <section id="about_me" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <h3 className="text-xl font-bold">
           About Me
         </h3>
@@ -102,9 +109,9 @@ export default function Home() {
 
           </p>
         </div>
-      </div>
+      </section>
 
-      <div id="work_experience" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <section id="work_experience" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <h3 className="text-xl font-bold">
           Work Experience
         </h3>
@@ -118,6 +125,7 @@ export default function Home() {
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 
+          </p>
             <h3 className="mt-2">Key Responsibilities</h3>
             <ul className="ml-8 mt-2 list-disc">
               <li>
@@ -130,7 +138,6 @@ export default function Home() {
                 list item 3
               </li>
             </ul>
-          </p>
         </div>
 
         <div className="ml-4 mt-4">
@@ -142,6 +149,7 @@ export default function Home() {
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 
+          </p>
             <h3 className="mt-2">Key Responsibilities</h3>
             <ul className="ml-8 mt-2 list-disc">
               <li>
@@ -154,11 +162,10 @@ export default function Home() {
                 list item 3
               </li>
             </ul>
-          </p>
         </div>
-      </div>
+      </section>
 
-      <div id="projects" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <section id="projects" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <h3 className="text-xl font-bold">
           Projects
         </h3>
@@ -171,6 +178,7 @@ export default function Home() {
             placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
+          </p>
 
             <h3 className="mt-2">Key Responsibilities</h3>
             <ul className="ml-8 mt-2 list-disc">
@@ -184,7 +192,6 @@ export default function Home() {
                 list item 3
               </li>
             </ul>
-          </p>
         </div>
 
         <div className="ml-4 mt-4">
@@ -194,6 +201,7 @@ export default function Home() {
           <p className="m-0 text-sm opacity-50">
             placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
 
 
             <h3 className="mt-2">Key Responsibilities</h3>
@@ -208,9 +216,8 @@ export default function Home() {
                 list item 3
               </li>
             </ul>
-          </p>
         </div>
-      </div>
+      </section>
 
 
     </main>
