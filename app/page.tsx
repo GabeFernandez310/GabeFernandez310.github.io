@@ -47,7 +47,27 @@ export default function Home() {
           </a>
           
         </div>
-
+    
+    <div id="contacts" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+        <h3 className="text-xl font-bold">
+          Contacts
+        </h3>
+        <ul>
+          <li>
+            Email: gabe.fer2000@gmail.com
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/gabriel-antonio-fernandez-2201841a3/">
+              LinkedIn
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/GabeFernandez310">
+              GitHub
+            </a>
+          </li>
+        </ul>
+      </div>
 
       <div id="about_me" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <h3 className="text-xl font-bold">
