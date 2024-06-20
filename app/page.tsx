@@ -50,9 +50,9 @@ export default function Home() {
       </div>
 
       <div id="about_me" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-        <h1 className="text-xl font-bold">
+        <h3 className="text-xl font-bold">
           About Me
-        </h1>
+        </h3>
 
         <div className="ml-4 mt-4">
           <p className="m-0 text-sm opacity-70">
@@ -85,9 +85,9 @@ There are many variations of passages of Lorem Ipsum available, but the majority
       </div>
 
       <div id="work_experience" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-        <h1 className="text-xl font-bold">
+        <h3 className="text-xl font-bold">
           Work Experience
-        </h1>
+        </h3>
 
         <div className="ml-4 mt-4">
           <h2 className="text-xl">
@@ -98,7 +98,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
       
-              <h1 className="mt-2">Key Responsibilities</h1>
+              <h3 className="mt-2">Key Responsibilities</h3>
               <ul className="ml-8 mt-2 list-disc">
                 <li>
                   list item 1
@@ -122,7 +122,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
       
-              <h1 className="mt-2">Key Responsibilities</h1>
+              <h3 className="mt-2">Key Responsibilities</h3>
               <ul className="ml-8 mt-2 list-disc">
                 <li>
                   list item 1
@@ -139,9 +139,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
       </div>
 
       <div id="projects" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-        <h1 className="text-xl font-bold">
+        <h3 className="text-xl font-bold">
           Projects
-        </h1>
+        </h3>
 
         <div className="ml-4 mt-4">
           <h2 className="text-xl">
@@ -152,7 +152,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
       
-              <h1 className="mt-2">Key Responsibilities</h1>
+              <h3 className="mt-2">Key Responsibilities</h3>
               <ul className="ml-8 mt-2 list-disc">
                 <li>
                   list item 1
@@ -176,7 +176,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
       
-              <h1 className="mt-2">Key Responsibilities</h1>
+              <h3 className="mt-2">Key Responsibilities</h3>
               <ul className="ml-8 mt-2 list-disc">
                 <li>
                   list item 1
