@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center p-24">
       {/* <main className="flex min-h-screen flex-col items-center p-24 bg-header-background bg-top bg-[length:100%] bg-no-repeat"> */}
 
-      <div className="mb-32 grid items-center text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <div className="mb-24 px-4 py-8 grid items-center text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left bg-opacity-50 bg-slate-500 rounded-xl">
         <img className="justify-end" src="../myLogo-GabrielFernandez.png">
         </img>
         <a
@@ -49,7 +49,7 @@ export default function Home() {
 
       </div>
 
-      <div id="contacts" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <div id="contacts" className="mt-4 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left p-4 bg-opacity-20 bg-slate-500 rounded-xl">
         <h3 className="text-xl font-bold">
           Contacts
         </h3>
@@ -71,12 +71,12 @@ export default function Home() {
       </div>
 
       <img
-        className="mt-8 mb-8 size-2/3 center"
+        className="mt-8 mb-8 size-2/3 center rounded-full"
         src="/GabrielFernandez-Hike.png"
       />
 
 
-      <section id="about_me" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <section id="about_me" className="mt-8 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left p-4 bg-opacity-20 bg-slate-500 rounded-xl">
         <h3 className="text-xl font-bold">
           About Me
         </h3>
@@ -104,12 +104,12 @@ When indoors I enjoy watching movies and playing single-player story-driven game
         </div>
       </section>
 
-      <section id="work_experience" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <section id="work_experience" className="mt-8 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left p-4 bg-opacity-20 bg-slate-500 rounded-xl">
         <h3 className="text-xl font-bold">
           Work Experience
         </h3>
 
-        <div className="ml-4 mt-4">
+        <div className="mt-4 p-4 bg-opacity-20 bg-slate-500 rounded-xl">
           <h2 className="text-xl">
             Software Developer I
           </h2>
@@ -139,7 +139,7 @@ When indoors I enjoy watching movies and playing single-player story-driven game
           </ul>
         </div>
 
-        <div className="ml-4 mt-4">
+        <div className="mt-4 p-4 bg-opacity-20 bg-slate-500 rounded-xl">
           <h2 className="text-xl">
             Quality Assurance Engineer
           </h2>
@@ -176,12 +176,12 @@ When indoors I enjoy watching movies and playing single-player story-driven game
         </div>
       </section>
 
-      <section id="projects" className="mt-16 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <section id="projects" className="mt-8 mb-32 text-left lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left p-4 bg-opacity-20 bg-slate-500 rounded-xl">
         <h3 className="text-xl font-bold">
           Projects
         </h3>
 
-        <div className="ml-4 mt-4">
+        <div className="mt-4 p-4 bg-opacity-20 bg-slate-500 rounded-xl">
           <h2 className="text-xl">
             OpenSearch SQL Plugin
           </h2>
@@ -211,7 +211,7 @@ When indoors I enjoy watching movies and playing single-player story-driven game
           </ul>
         </div>
 
-        <div className="ml-4 mt-4">
+        <div className="mt-4 p-4 bg-opacity-20 bg-slate-500 rounded-xl">
           <h2 className="text-xl">
             MERN Stack Website
           </h2>
