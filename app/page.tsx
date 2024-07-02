@@ -83,28 +83,23 @@ export default function Home() {
 
         <div className="ml-4 mt-4">
           <p className="m-0 text-sm opacity-70">
-            Hi! If you&apos;re reading this, welcome to my personal page. My name is Gabriel (although more often I go by Gio), and I&apos;m a Software Developer based around Vancouver B.C., Canada.
-            This page is still fairly barebones as I&apos;m actively working on it, but more information about me will come soon!
+          Hi! If you&apos;re reading this, welcome to my personal page. My name is Gabriel (although more often I go by Gio), and I&apos;m a Software Developer based around Vancouver B.C., Canada.
+If you&apos;re interested, I&apos;d like for you to learn a little bit more about myself and how I decided to enter this industry.
+Since my early years, I&apos;ve always been interested in all things related to the STEM fields. As a kid, I would often favour watching educational shows like Zoboomafoo and The Magic School Bus or documentaries about wildlife and space over other shows and cartoons. 
+Growing up like this, I had believed I would like to pursue a career working as a researcher in biology or physics. As I continued my education, I was introduced to computer programming when I entered high school at 13 years old. 
+I quickly became interested in the topic, and continued to spend the remainder of my high school education pursuing courses and opportunities where I could continue to learn about programming, computers, and other technology.
+Through these experiences, I was able to expand on my knowledge and pursue interests in specific fields such as computer software, hardware, animation and multimedia, 3D printing, and electronics. 
+As I pursued these, I was especially fascinated with the topics of computer programming and 3D printing. I participated in programming competitions, volunteered as a Peer Tutor for a technology focused class,
+and aided the head of the IT department with various tasks aroung the school. Upon reflection, I sometimes created my own opportunities when exploring my interests.
+At one point, myself and a peer would spend a few extra hours after school every day to understand a program someone had made available on GitHub to scan 3D objects and print them on our school&apos;s 3D printer.
+On a separate occasion, I asked the head of the IT department if he would allow me to borrow the 3D printer during my school&apos;s Summer break, and to this day I believe I am the only student who has asked and been allowed to take the printer home.
+Both of these are fond memories that have helped shape my interests and hobbies. I still have the 3D printed bust of myself on my shelf at home, and after graduating high school I purchased my own 3D printer which I constantly used to print items that I find online or design myself.
+With these interests, I knew early into my applications for post-secondary education what type of degree I wanted to pursue. 
+I further polished my skills in University, learning about various Computer Science and Computer Engineering topics and having the opportunity to apply my gained knowledge working as a Quality Assurance Engineer and Software Developer.
+I continued to learn in private as well, taking some time to learn about technology stacks and developing computer applications. This has resulted in my current self. Someone who has a breadth of knowledge in several technology domains and is constantly wanting to pursue new interests and learn.
 
-            <br></br>
-            <br></br>
-
-            Following this is some placeholder text... What is Lorem Ipsum?
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-            Why do we use it?
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &apos;Content here, content here&apos;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &apos;lorem ipsum&apos; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
-
-            Where does it come from?
-            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &quot;de Finibus Bonorum et Malorum&quot; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &quot;Lorem ipsum dolor sit amet..&quot;, comes from a line in section 1.10.32.
-
-            The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &quot;de Finibus Bonorum et Malorum&quot; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-            Where can I get some?
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&apos;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&apos;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-
+Despite the previous life-story, my interests are not limited to technology and academics. Outside of these things, I am someone who greatly enjoys the outdoors. I enjoy hiking and kayaking in the Summer months, and when whether permits I enjoy jogging outside along local trails.
+When indoors I enjoy watching movies and playing single-player story-driven games. I also enjoy cooking and doing various DIY projects. That&apos;s a little bit about myself. If you&apos;re interested in contacting me for any reason please feel free to contact me through any of the methods listed at the top of this page. I look forward to meeting you!
           </p>
         </div>
       </section>
@@ -123,8 +118,8 @@ export default function Home() {
             <br></br>
             <br></br>
 
-            placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            I worked as a Software Developer on a small team following Agile methodologies. I mainly implemented new features into our project, and was occasionally tasked with other odd jobs such as updating websites, helping other members of the team or preparing presentations. 
+            As part of my main duties, I also wrote documentation for my newly implemented feature, wrote several levels of tests, communicated with clients and customers about the projects progress and requirements, investigated and fixed bugs, and estimated task difficulty with my team.
 
           </p>
           <h3 className="mt-2">Key Responsibilities</h3>
@@ -155,9 +150,8 @@ export default function Home() {
             <br></br>
             <br></br>
 
-            placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
+            Working as a Quality Assurance Engineer, I was part of a very small team that practiced some Agile methodologies and met twice a week for a standup meeting. My individual tasks were largely decoupled from the tasks of the other members.
+            Working independently, I documented, wrote, and automated tests for both front-end and back-end of a web application. This mostly involved creating user stories and workflows to create a suite of tests for the application&apos;s UI and testing the applications API using several testing frameworks.
 
           </p>
           <h3 className="mt-2">Key Responsibilities</h3>
@@ -198,8 +192,7 @@ export default function Home() {
             <br></br>
             <br></br>
 
-            placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            OpenSearch, maintained by Amazon, is a fork of the ElasticSearch project. I worked on a part of the OpenSearch SQL plugin which helped users interact and query an OpenSearch instance with SQL queries rather than the usual API.
 
           </p>
 
@@ -229,8 +222,8 @@ export default function Home() {
             <br></br>
             <br></br>
 
-            placeholder description.....Following this is some placeholder text... What is Lorem Ipsum?
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            This was a personal project completed as part of a course provided on Udemy. I took this course due to my own desire to learn about fullstack development and better understand the architecture of applications.
+
           </p>
 
           <h3 className="mt-2">Key Responsibilities</h3>
