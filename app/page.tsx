@@ -58,12 +58,12 @@ export default function Home() {
             Email: gabe.fer2000@gmail.com
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/gabriel-antonio-fernandez-2201841a3/" className="text-sky-700">
+            <a href="https://www.linkedin.com/in/gabriel-antonio-fernandez-2201841a3/" className="text-sky-700 hover:border-blue-300 hover:bg-blue-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
               LinkedIn
             </a>
           </li>
           <li>
-            <a href="https://github.com/GabeFernandez310" className="text-sky-700">
+            <a href="https://github.com/GabeFernandez310" className="text-sky-700 hover:border-blue-300 hover:bg-blue-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
               GitHub
             </a>
           </li>
@@ -207,6 +207,11 @@ When indoors, I enjoy watching movies and playing single-player story-driven gam
             </li>
             <li>
               Used source control to review code, resolve conflicts, and adhere to coding style to maintain software quality
+            </li>
+            <li>
+              <a className="text-sky-700 hover:border-blue-300 hover:bg-blue-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30" href="https://github.com/opensearch-project/sql/pulls?q=is%3Apr+is%3Aclosed+author%3AGabeFernandez310">
+                Link to merged code
+              </a>
             </li>
           </ul>
         </div>
