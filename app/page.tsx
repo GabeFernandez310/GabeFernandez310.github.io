@@ -193,7 +193,13 @@ When indoors, I enjoy watching movies and playing single-player story-driven gam
             <br></br>
 
             OpenSearch, maintained by Amazon, is a fork of the ElasticSearch project. I worked on a part of the OpenSearch SQL plugin which helped users interact and query an OpenSearch instance with SQL queries rather than the usual API.
+            
+            <br></br>
+            <br></br>
 
+            <a className="text-sky-700 hover:border-blue-300 hover:bg-blue-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30" href="https://github.com/opensearch-project/sql/pulls?q=is%3Apr+is%3Aclosed+author%3AGabeFernandez310">
+                Link to merged code
+            </a>
           </p>
 
           <h3 className="mt-2">Key Responsibilities</h3>
@@ -207,11 +213,6 @@ When indoors, I enjoy watching movies and playing single-player story-driven gam
             </li>
             <li>
               Used source control to review code, resolve conflicts, and adhere to coding style to maintain software quality
-            </li>
-            <li>
-              <a className="text-sky-700 hover:border-blue-300 hover:bg-blue-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30" href="https://github.com/opensearch-project/sql/pulls?q=is%3Apr+is%3Aclosed+author%3AGabeFernandez310">
-                Link to merged code
-              </a>
             </li>
           </ul>
         </div>
